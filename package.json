@@ -1,0 +1,22 @@
+{
+  "name": "meassure",
+  "version": "1.0.0",
+  "description": "Server side timer for app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RisabhKedai/MeAssure.git"
+  },
+  "author": "RisabhKedai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RisabhKedai/MeAssure/issues"
+  },
+  "homepage": "https://github.com/RisabhKedai/MeAssure#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
